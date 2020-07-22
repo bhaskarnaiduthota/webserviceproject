@@ -1,0 +1,87 @@
+Status: FAILED
+Time Taken: 2184
+Size: 457
+Timestamp: Wed Jul 22 13:02:00 IST 2020
+TestStep: Call Save Customer Request
+
+----------------- Messages ------------------------------
+[Not SOAP Fault] Response is a SOAP Fault
+
+----------------- Properties ------------------------------
+Endpoint: http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+Request Headers: Authorization : bearer f0rf13pxtxp7mftwc23rq6e52yvmi5um
+Connection : Keep-Alive
+User-Agent : Apache-HttpClient/4.1.1 (java 1.5)
+Host : soap.upskills.in
+Accept-Encoding : gzip,deflate
+Content-Length : 1443
+Content-Type : application/soap+xml;charset=UTF-8;action="customerCustomerRepositoryV1Save"
+
+
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:customerCustomerRepositoryV1SaveRequest>
+         <customer>
+            <email>bhaskar16@gmail.com</email>
+            <firstname>bhaskar8</firstname>
+            <lastname>naidu8</lastname>
+            <dob>1990-05-29</dob>
+            <addresses>
+               <item>
+                  <region>
+                     <!--enter valid region code-->
+                     <regionCode>KA</regionCode>
+                     <region>Karnataka</region>
+                  </region>
+                  <!--enter valid country id-->
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>John</firstname>
+                  <lastname>Doe</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+         </customer>
+         <!--Optional:-->
+         <passwordHash>?</passwordHash>
+      </def:customerCustomerRepositoryV1SaveRequest>
+   </soap:Body>
+</soap:Envelope>
+
+---------------- Response --------------------------
+Response Headers: X-UA-Compatible : IE=edge
+Cache-Control : no-store, no-cache, must-revalidate
+Server : LiteSpeed
+Connection : Keep-Alive
+Set-Cookie : PHPSESSID=a1912646394e36c8498c1f4808d3b0e5; expires=Wed, 22-Jul-2020 08:32:05 GMT; Max-Age=3600; path=/; domain=soap.upskills.in; HttpOnly
+Expires : Thu, 19 Nov 1981 08:52:00 GMT
+Pragma : no-cache
+#status# : HTTP/1.1 200 OK
+Content-Length : 457
+Date : Wed, 22 Jul 2020 07:32:06 GMT
+X-Powered-By : PHP/7.2.29
+Content-Type : application/soap+xml; charset=UTF-8
+
+
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope">
+   <env:Body>
+      <env:Fault>
+         <env:Code>
+            <env:Value>env:Sender</env:Value>
+         </env:Code>
+         <env:Reason>
+            <env:Text xml:lang="en">A customer with the same email address already exists in an associated website.</env:Text>
+         </env:Reason>
+      </env:Fault>
+   </env:Body>
+</env:Envelope>

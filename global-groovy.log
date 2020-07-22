@@ -1,0 +1,2559 @@
+2020-07-22 00:29:42,916 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3382</id>
+            <groupId>1</groupId>
+            <defaultBilling>2748</defaultBilling>
+            <defaultShipping>2748</defaultShipping>
+            <createdAt>2020-07-21 18:59:42</createdAt>
+            <updatedAt>2020-07-21 18:59:42</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2748</id>
+                  <customerId>3382</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 00:29:43,260 INFO  [log]  id values are 3382
+2020-07-22 00:29:51,167 INFO  [log] true
+2020-07-22 00:29:51,168 INFO  [log] Test case pass
+2020-07-22 00:29:52,059 INFO  [log] The Total number of rows are 4
+2020-07-22 00:29:52,065 INFO  [log] The Total number of columns are 3
+2020-07-22 00:29:52,139 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 00:29:52,146 INFO  [log] firstname is Naidu1
+2020-07-22 00:29:52,149 INFO  [log] lastname is Naidu1
+2020-07-22 00:29:53,112 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3383</id>
+            <groupId>1</groupId>
+            <defaultBilling>2749</defaultBilling>
+            <defaultShipping>2749</defaultShipping>
+            <createdAt>2020-07-21 18:59:52</createdAt>
+            <updatedAt>2020-07-21 18:59:53</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2749</id>
+                  <customerId>3383</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 00:29:53,413 INFO  [log]  id values are 3383
+2020-07-22 00:29:59,221 INFO  [log] true
+2020-07-22 00:29:59,221 INFO  [log] Test case pass
+2020-07-22 00:29:59,257 INFO  [log] Number of test Step got executed7
+2020-07-22 00:29:59,258 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 00:29:59,261 INFO  [log] firstname is Naidu2
+2020-07-22 00:29:59,261 INFO  [log] lastname is Naidu2
+2020-07-22 00:30:00,157 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3384</id>
+            <groupId>1</groupId>
+            <defaultBilling>2750</defaultBilling>
+            <defaultShipping>2750</defaultShipping>
+            <createdAt>2020-07-21 19:00:00</createdAt>
+            <updatedAt>2020-07-21 19:00:00</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2750</id>
+                  <customerId>3384</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 00:30:00,347 INFO  [log]  id values are 3384
+2020-07-22 00:30:07,059 INFO  [log] true
+2020-07-22 00:30:07,059 INFO  [log] Test case pass
+2020-07-22 00:30:07,069 INFO  [log] Number of test Step got executed7
+2020-07-22 00:30:07,076 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 00:30:07,079 INFO  [log] firstname is Naidu3
+2020-07-22 00:30:07,080 INFO  [log] lastname is Naidu3
+2020-07-22 00:30:08,134 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3385</id>
+            <groupId>1</groupId>
+            <defaultBilling>2751</defaultBilling>
+            <defaultShipping>2751</defaultShipping>
+            <createdAt>2020-07-21 19:00:07</createdAt>
+            <updatedAt>2020-07-21 19:00:08</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2751</id>
+                  <customerId>3385</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 00:30:08,397 INFO  [log]  id values are 3385
+2020-07-22 00:30:14,149 INFO  [log] true
+2020-07-22 00:30:14,149 INFO  [log] Test case pass
+2020-07-22 00:30:14,157 INFO  [log] Number of test Step got executed7
+2020-07-22 00:30:14,166 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 00:30:14,168 INFO  [log] firstname is Naidu4
+2020-07-22 00:30:14,179 INFO  [log] lastname is Naidu4
+2020-07-22 00:30:15,114 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3386</id>
+            <groupId>1</groupId>
+            <defaultBilling>2752</defaultBilling>
+            <defaultShipping>2752</defaultShipping>
+            <createdAt>2020-07-21 19:00:14</createdAt>
+            <updatedAt>2020-07-21 19:00:15</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2752</id>
+                  <customerId>3386</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 00:30:15,350 INFO  [log]  id values are 3386
+2020-07-22 00:30:21,106 INFO  [log] true
+2020-07-22 00:30:21,106 INFO  [log] Test case pass
+2020-07-22 00:30:21,113 INFO  [log] Number of test Step got executed7
+2020-07-22 11:24:57,562 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3463</id>
+            <groupId>1</groupId>
+            <defaultBilling>2825</defaultBilling>
+            <defaultShipping>2825</defaultShipping>
+            <createdAt>2020-07-22 05:55:01</createdAt>
+            <updatedAt>2020-07-22 05:55:01</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2825</id>
+                  <customerId>3463</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:24:58,020 INFO  [log]  id values are 3463
+2020-07-22 11:25:07,272 INFO  [log] true
+2020-07-22 11:25:07,272 INFO  [log] Test case pass
+2020-07-22 11:25:08,123 INFO  [log] The Total number of rows are 4
+2020-07-22 11:25:08,134 INFO  [log] The Total number of columns are 3
+2020-07-22 11:25:08,224 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 11:25:08,226 INFO  [log] firstname is Naidu1
+2020-07-22 11:25:08,236 INFO  [log] lastname is Naidu1
+2020-07-22 11:25:09,978 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3465</id>
+            <groupId>1</groupId>
+            <defaultBilling>2827</defaultBilling>
+            <defaultShipping>2827</defaultShipping>
+            <createdAt>2020-07-22 05:55:14</createdAt>
+            <updatedAt>2020-07-22 05:55:14</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2827</id>
+                  <customerId>3465</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:25:10,276 INFO  [log]  id values are 3465
+2020-07-22 11:25:16,419 INFO  [log] true
+2020-07-22 11:25:16,421 INFO  [log] Test case pass
+2020-07-22 11:25:16,458 INFO  [log] Number of test Step got executed7
+2020-07-22 11:25:16,459 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 11:25:16,460 INFO  [log] firstname is Naidu2
+2020-07-22 11:25:16,471 INFO  [log] lastname is Naidu2
+2020-07-22 11:25:17,416 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3466</id>
+            <groupId>1</groupId>
+            <defaultBilling>2828</defaultBilling>
+            <defaultShipping>2828</defaultShipping>
+            <createdAt>2020-07-22 05:55:21</createdAt>
+            <updatedAt>2020-07-22 05:55:22</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2828</id>
+                  <customerId>3466</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:25:17,842 INFO  [log]  id values are 3466
+2020-07-22 11:25:23,871 INFO  [log] true
+2020-07-22 11:25:23,880 INFO  [log] Test case pass
+2020-07-22 11:25:23,905 INFO  [log] Number of test Step got executed7
+2020-07-22 11:25:23,908 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 11:25:23,919 INFO  [log] firstname is Naidu3
+2020-07-22 11:25:23,922 INFO  [log] lastname is Naidu3
+2020-07-22 11:25:24,931 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3467</id>
+            <groupId>1</groupId>
+            <defaultBilling>2829</defaultBilling>
+            <defaultShipping>2829</defaultShipping>
+            <createdAt>2020-07-22 05:55:29</createdAt>
+            <updatedAt>2020-07-22 05:55:29</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2829</id>
+                  <customerId>3467</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:25:25,197 INFO  [log]  id values are 3467
+2020-07-22 11:25:33,271 INFO  [log] true
+2020-07-22 11:25:33,271 INFO  [log] Test case pass
+2020-07-22 11:25:33,299 INFO  [log] Number of test Step got executed7
+2020-07-22 11:25:33,301 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 11:25:33,308 INFO  [log] firstname is Naidu4
+2020-07-22 11:25:33,314 INFO  [log] lastname is Naidu4
+2020-07-22 11:25:34,499 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3468</id>
+            <groupId>1</groupId>
+            <defaultBilling>2830</defaultBilling>
+            <defaultShipping>2830</defaultShipping>
+            <createdAt>2020-07-22 05:55:39</createdAt>
+            <updatedAt>2020-07-22 05:55:39</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2830</id>
+                  <customerId>3468</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:25:34,803 INFO  [log]  id values are 3468
+2020-07-22 11:25:40,692 INFO  [log] true
+2020-07-22 11:25:40,692 INFO  [log] Test case pass
+2020-07-22 11:25:40,712 INFO  [log] Number of test Step got executed7
+2020-07-22 11:28:29,761 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3471</id>
+            <groupId>1</groupId>
+            <defaultBilling>2833</defaultBilling>
+            <defaultShipping>2833</defaultShipping>
+            <createdAt>2020-07-22 05:58:33</createdAt>
+            <updatedAt>2020-07-22 05:58:33</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2833</id>
+                  <customerId>3471</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:28:30,125 INFO  [log]  id values are 3471
+2020-07-22 11:28:39,335 INFO  [log] true
+2020-07-22 11:28:39,335 INFO  [log] Test case pass
+2020-07-22 11:28:40,140 INFO  [log] The Total number of rows are 4
+2020-07-22 11:28:40,145 INFO  [log] The Total number of columns are 3
+2020-07-22 11:28:40,239 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 11:28:40,240 INFO  [log] firstname is Naidu1
+2020-07-22 11:28:40,258 INFO  [log] lastname is Naidu1
+2020-07-22 11:28:41,268 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3472</id>
+            <groupId>1</groupId>
+            <defaultBilling>2834</defaultBilling>
+            <defaultShipping>2834</defaultShipping>
+            <createdAt>2020-07-22 05:58:45</createdAt>
+            <updatedAt>2020-07-22 05:58:45</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2834</id>
+                  <customerId>3472</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:28:41,558 INFO  [log]  id values are 3472
+2020-07-22 11:28:48,162 INFO  [log] true
+2020-07-22 11:28:48,163 INFO  [log] Test case pass
+2020-07-22 11:28:48,217 INFO  [log] Number of test Step got executed7
+2020-07-22 11:28:48,218 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 11:28:48,226 INFO  [log] firstname is Naidu2
+2020-07-22 11:28:48,231 INFO  [log] lastname is Naidu2
+2020-07-22 11:28:49,208 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3473</id>
+            <groupId>1</groupId>
+            <defaultBilling>2835</defaultBilling>
+            <defaultShipping>2835</defaultShipping>
+            <createdAt>2020-07-22 05:58:53</createdAt>
+            <updatedAt>2020-07-22 05:58:53</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2835</id>
+                  <customerId>3473</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:28:49,433 INFO  [log]  id values are 3473
+2020-07-22 11:28:55,588 INFO  [log] true
+2020-07-22 11:28:55,588 INFO  [log] Test case pass
+2020-07-22 11:28:55,596 INFO  [log] Number of test Step got executed7
+2020-07-22 11:28:55,607 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 11:28:55,610 INFO  [log] firstname is Naidu3
+2020-07-22 11:28:55,612 INFO  [log] lastname is Naidu3
+2020-07-22 11:28:56,557 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3474</id>
+            <groupId>1</groupId>
+            <defaultBilling>2836</defaultBilling>
+            <defaultShipping>2836</defaultShipping>
+            <createdAt>2020-07-22 05:59:01</createdAt>
+            <updatedAt>2020-07-22 05:59:01</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2836</id>
+                  <customerId>3474</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:28:56,822 INFO  [log]  id values are 3474
+2020-07-22 11:29:03,290 INFO  [log] true
+2020-07-22 11:29:03,290 INFO  [log] Test case pass
+2020-07-22 11:29:03,293 INFO  [log] Number of test Step got executed7
+2020-07-22 11:29:03,295 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 11:29:03,301 INFO  [log] firstname is Naidu4
+2020-07-22 11:29:03,309 INFO  [log] lastname is Naidu4
+2020-07-22 11:29:04,325 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3475</id>
+            <groupId>1</groupId>
+            <defaultBilling>2837</defaultBilling>
+            <defaultShipping>2837</defaultShipping>
+            <createdAt>2020-07-22 05:59:08</createdAt>
+            <updatedAt>2020-07-22 05:59:08</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2837</id>
+                  <customerId>3475</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 11:29:04,596 INFO  [log]  id values are 3475
+2020-07-22 11:29:10,805 INFO  [log] true
+2020-07-22 11:29:10,805 INFO  [log] Test case pass
+2020-07-22 11:29:10,833 INFO  [log] Number of test Step got executed7
+2020-07-22 12:05:16,469 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3505</id>
+            <groupId>1</groupId>
+            <defaultBilling>2867</defaultBilling>
+            <defaultShipping>2867</defaultShipping>
+            <createdAt>2020-07-22 06:35:20</createdAt>
+            <updatedAt>2020-07-22 06:35:20</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2867</id>
+                  <customerId>3505</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:05:17,162 INFO  [log]  id values are 3505
+2020-07-22 12:05:25,878 INFO  [log] true
+2020-07-22 12:05:25,880 INFO  [log] Test case pass
+2020-07-22 12:05:27,213 INFO  [log] The Total number of rows are 4
+2020-07-22 12:05:27,285 INFO  [log] The Total number of columns are 3
+2020-07-22 12:05:27,412 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 12:05:27,432 INFO  [log] firstname is Naidu1
+2020-07-22 12:05:27,468 INFO  [log] lastname is Naidu1
+2020-07-22 12:05:28,447 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3506</id>
+            <groupId>1</groupId>
+            <defaultBilling>2868</defaultBilling>
+            <defaultShipping>2868</defaultShipping>
+            <createdAt>2020-07-22 06:35:33</createdAt>
+            <updatedAt>2020-07-22 06:35:33</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2868</id>
+                  <customerId>3506</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:05:28,737 INFO  [log]  id values are 3506
+2020-07-22 12:05:34,496 INFO  [log] true
+2020-07-22 12:05:34,503 INFO  [log] Test case pass
+2020-07-22 12:05:34,560 INFO  [log] Number of test Step got executed7
+2020-07-22 12:05:34,567 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 12:05:34,570 INFO  [log] firstname is Naidu2
+2020-07-22 12:05:34,576 INFO  [log] lastname is Naidu2
+2020-07-22 12:05:35,495 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3507</id>
+            <groupId>1</groupId>
+            <defaultBilling>2869</defaultBilling>
+            <defaultShipping>2869</defaultShipping>
+            <createdAt>2020-07-22 06:35:40</createdAt>
+            <updatedAt>2020-07-22 06:35:40</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2869</id>
+                  <customerId>3507</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:05:35,876 INFO  [log]  id values are 3507
+2020-07-22 12:05:41,753 INFO  [log] true
+2020-07-22 12:05:41,753 INFO  [log] Test case pass
+2020-07-22 12:05:41,772 INFO  [log] Number of test Step got executed7
+2020-07-22 12:05:41,787 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 12:05:41,789 INFO  [log] firstname is Naidu3
+2020-07-22 12:05:41,796 INFO  [log] lastname is Naidu3
+2020-07-22 12:05:42,724 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3508</id>
+            <groupId>1</groupId>
+            <defaultBilling>2870</defaultBilling>
+            <defaultShipping>2870</defaultShipping>
+            <createdAt>2020-07-22 06:35:47</createdAt>
+            <updatedAt>2020-07-22 06:35:47</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2870</id>
+                  <customerId>3508</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:05:43,139 INFO  [log]  id values are 3508
+2020-07-22 12:05:49,159 INFO  [log] true
+2020-07-22 12:05:49,160 INFO  [log] Test case pass
+2020-07-22 12:05:49,175 INFO  [log] Number of test Step got executed7
+2020-07-22 12:05:49,181 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 12:05:49,183 INFO  [log] firstname is Naidu4
+2020-07-22 12:05:49,197 INFO  [log] lastname is Naidu4
+2020-07-22 12:05:50,131 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3509</id>
+            <groupId>1</groupId>
+            <defaultBilling>2871</defaultBilling>
+            <defaultShipping>2871</defaultShipping>
+            <createdAt>2020-07-22 06:35:54</createdAt>
+            <updatedAt>2020-07-22 06:35:54</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2871</id>
+                  <customerId>3509</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:05:50,453 INFO  [log]  id values are 3509
+2020-07-22 12:05:56,067 INFO  [log] true
+2020-07-22 12:05:56,073 INFO  [log] Test case pass
+2020-07-22 12:05:56,111 INFO  [log] Number of test Step got executed7
+2020-07-22 12:11:20,792 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3519</id>
+            <groupId>1</groupId>
+            <defaultBilling>2881</defaultBilling>
+            <defaultShipping>2881</defaultShipping>
+            <createdAt>2020-07-22 06:41:24</createdAt>
+            <updatedAt>2020-07-22 06:41:24</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2881</id>
+                  <customerId>3519</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:11:21,805 INFO  [log]  id values are 3519
+2020-07-22 12:11:32,810 INFO  [log] true
+2020-07-22 12:11:32,811 INFO  [log] Test case pass
+2020-07-22 12:11:33,943 INFO  [log] The Total number of rows are 4
+2020-07-22 12:11:33,945 INFO  [log] The Total number of columns are 3
+2020-07-22 12:11:34,160 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 12:11:34,162 INFO  [log] firstname is Naidu1
+2020-07-22 12:11:34,218 INFO  [log] lastname is Naidu1
+2020-07-22 12:11:35,576 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3521</id>
+            <groupId>1</groupId>
+            <defaultBilling>2883</defaultBilling>
+            <defaultShipping>2883</defaultShipping>
+            <createdAt>2020-07-22 06:41:40</createdAt>
+            <updatedAt>2020-07-22 06:41:40</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2883</id>
+                  <customerId>3521</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:11:35,995 INFO  [log]  id values are 3521
+2020-07-22 12:11:44,106 INFO  [log] true
+2020-07-22 12:11:44,107 INFO  [log] Test case pass
+2020-07-22 12:11:44,162 INFO  [log] Number of test Step got executed7
+2020-07-22 12:11:44,162 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 12:11:44,175 INFO  [log] firstname is Naidu2
+2020-07-22 12:11:44,179 INFO  [log] lastname is Naidu2
+2020-07-22 12:11:45,430 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3523</id>
+            <groupId>1</groupId>
+            <defaultBilling>2885</defaultBilling>
+            <defaultShipping>2885</defaultShipping>
+            <createdAt>2020-07-22 06:41:49</createdAt>
+            <updatedAt>2020-07-22 06:41:50</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2885</id>
+                  <customerId>3523</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:11:45,791 INFO  [log]  id values are 3523
+2020-07-22 12:11:54,033 INFO  [log] true
+2020-07-22 12:11:54,055 INFO  [log] Test case pass
+2020-07-22 12:11:54,136 INFO  [log] Number of test Step got executed7
+2020-07-22 12:11:54,158 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 12:11:54,184 INFO  [log] firstname is Naidu3
+2020-07-22 12:11:54,218 INFO  [log] lastname is Naidu3
+2020-07-22 12:11:55,490 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3524</id>
+            <groupId>1</groupId>
+            <defaultBilling>2886</defaultBilling>
+            <defaultShipping>2886</defaultShipping>
+            <createdAt>2020-07-22 06:41:59</createdAt>
+            <updatedAt>2020-07-22 06:42:00</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2886</id>
+                  <customerId>3524</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:11:55,878 INFO  [log]  id values are 3524
+2020-07-22 12:12:04,309 INFO  [log] true
+2020-07-22 12:12:04,310 INFO  [log] Test case pass
+2020-07-22 12:12:04,340 INFO  [log] Number of test Step got executed7
+2020-07-22 12:12:04,345 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 12:12:04,347 INFO  [log] firstname is Naidu4
+2020-07-22 12:12:04,361 INFO  [log] lastname is Naidu4
+2020-07-22 12:12:05,460 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3526</id>
+            <groupId>1</groupId>
+            <defaultBilling>2888</defaultBilling>
+            <defaultShipping>2888</defaultShipping>
+            <createdAt>2020-07-22 06:42:09</createdAt>
+            <updatedAt>2020-07-22 06:42:10</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2888</id>
+                  <customerId>3526</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:12:05,753 INFO  [log]  id values are 3526
+2020-07-22 12:12:12,900 INFO  [log] true
+2020-07-22 12:12:12,901 INFO  [log] Test case pass
+2020-07-22 12:12:12,961 INFO  [log] Number of test Step got executed7
+2020-07-22 12:25:29,407 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3547</id>
+            <groupId>1</groupId>
+            <defaultBilling>2907</defaultBilling>
+            <defaultShipping>2907</defaultShipping>
+            <createdAt>2020-07-22 06:55:33</createdAt>
+            <updatedAt>2020-07-22 06:55:33</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2907</id>
+                  <customerId>3547</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:25:29,824 INFO  [log]  id values are 3547
+2020-07-22 12:25:40,582 INFO  [log] true
+2020-07-22 12:25:40,585 INFO  [log] Test case pass
+2020-07-22 12:25:41,414 INFO  [log] The Total number of rows are 4
+2020-07-22 12:25:41,423 INFO  [log] The Total number of columns are 3
+2020-07-22 12:25:41,518 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 12:25:41,519 INFO  [log] firstname is Naidu1
+2020-07-22 12:25:41,571 INFO  [log] lastname is Naidu1
+2020-07-22 12:25:42,646 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3548</id>
+            <groupId>1</groupId>
+            <defaultBilling>2908</defaultBilling>
+            <defaultShipping>2908</defaultShipping>
+            <createdAt>2020-07-22 06:55:47</createdAt>
+            <updatedAt>2020-07-22 06:55:47</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2908</id>
+                  <customerId>3548</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:25:42,943 INFO  [log]  id values are 3548
+2020-07-22 12:25:51,557 INFO  [log] true
+2020-07-22 12:25:51,558 INFO  [log] Test case pass
+2020-07-22 12:25:51,593 INFO  [log] Number of test Step got executed7
+2020-07-22 12:25:51,593 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 12:25:51,606 INFO  [log] firstname is Naidu2
+2020-07-22 12:25:51,611 INFO  [log] lastname is Naidu2
+2020-07-22 12:25:52,556 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3549</id>
+            <groupId>1</groupId>
+            <defaultBilling>2909</defaultBilling>
+            <defaultShipping>2909</defaultShipping>
+            <createdAt>2020-07-22 06:55:57</createdAt>
+            <updatedAt>2020-07-22 06:55:57</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2909</id>
+                  <customerId>3549</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:25:52,907 INFO  [log]  id values are 3549
+2020-07-22 12:26:02,024 INFO  [log] true
+2020-07-22 12:26:02,029 INFO  [log] Test case pass
+2020-07-22 12:26:02,053 INFO  [log] Number of test Step got executed7
+2020-07-22 12:26:02,057 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 12:26:02,059 INFO  [log] firstname is Naidu3
+2020-07-22 12:26:02,068 INFO  [log] lastname is Naidu3
+2020-07-22 12:26:03,053 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3550</id>
+            <groupId>1</groupId>
+            <defaultBilling>2910</defaultBilling>
+            <defaultShipping>2910</defaultShipping>
+            <createdAt>2020-07-22 06:56:07</createdAt>
+            <updatedAt>2020-07-22 06:56:07</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2910</id>
+                  <customerId>3550</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:26:03,238 INFO  [log]  id values are 3550
+2020-07-22 12:26:11,523 INFO  [log] true
+2020-07-22 12:26:11,523 INFO  [log] Test case pass
+2020-07-22 12:26:11,544 INFO  [log] Number of test Step got executed7
+2020-07-22 12:26:11,552 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 12:26:11,557 INFO  [log] firstname is Naidu4
+2020-07-22 12:26:11,559 INFO  [log] lastname is Naidu4
+2020-07-22 12:26:12,523 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3551</id>
+            <groupId>1</groupId>
+            <defaultBilling>2911</defaultBilling>
+            <defaultShipping>2911</defaultShipping>
+            <createdAt>2020-07-22 06:56:17</createdAt>
+            <updatedAt>2020-07-22 06:56:17</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2911</id>
+                  <customerId>3551</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:26:12,730 INFO  [log]  id values are 3551
+2020-07-22 12:26:20,961 INFO  [log] true
+2020-07-22 12:26:20,961 INFO  [log] Test case pass
+2020-07-22 12:26:20,971 INFO  [log] Number of test Step got executed7
+2020-07-22 12:44:25,533 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3571</id>
+            <groupId>1</groupId>
+            <defaultBilling>2927</defaultBilling>
+            <defaultShipping>2927</defaultShipping>
+            <createdAt>2020-07-22 07:14:29</createdAt>
+            <updatedAt>2020-07-22 07:14:29</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2927</id>
+                  <customerId>3571</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:44:26,080 INFO  [log]  id values are 3571
+2020-07-22 12:44:36,624 INFO  [log] true
+2020-07-22 12:44:36,624 INFO  [log] Test case pass
+2020-07-22 12:44:37,460 INFO  [log] The Total number of rows are 4
+2020-07-22 12:44:37,462 INFO  [log] The Total number of columns are 3
+2020-07-22 12:44:37,569 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 12:44:37,588 INFO  [log] firstname is Naidu1
+2020-07-22 12:44:37,597 INFO  [log] lastname is Naidu1
+2020-07-22 12:44:38,625 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3572</id>
+            <groupId>1</groupId>
+            <defaultBilling>2928</defaultBilling>
+            <defaultShipping>2928</defaultShipping>
+            <createdAt>2020-07-22 07:14:43</createdAt>
+            <updatedAt>2020-07-22 07:14:43</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2928</id>
+                  <customerId>3572</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:44:38,861 INFO  [log]  id values are 3572
+2020-07-22 12:44:46,548 INFO  [log] true
+2020-07-22 12:44:46,549 INFO  [log] Test case pass
+2020-07-22 12:44:46,583 INFO  [log] Number of test Step got executed7
+2020-07-22 12:44:46,585 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 12:44:46,589 INFO  [log] firstname is Naidu2
+2020-07-22 12:44:46,590 INFO  [log] lastname is Naidu2
+2020-07-22 12:44:47,718 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3573</id>
+            <groupId>1</groupId>
+            <defaultBilling>2929</defaultBilling>
+            <defaultShipping>2929</defaultShipping>
+            <createdAt>2020-07-22 07:14:52</createdAt>
+            <updatedAt>2020-07-22 07:14:52</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2929</id>
+                  <customerId>3573</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:44:48,074 INFO  [log]  id values are 3573
+2020-07-22 12:44:56,162 INFO  [log] true
+2020-07-22 12:44:56,162 INFO  [log] Test case pass
+2020-07-22 12:44:56,185 INFO  [log] Number of test Step got executed7
+2020-07-22 12:44:56,192 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 12:44:56,201 INFO  [log] firstname is Naidu3
+2020-07-22 12:44:56,205 INFO  [log] lastname is Naidu3
+2020-07-22 12:44:57,544 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3574</id>
+            <groupId>1</groupId>
+            <defaultBilling>2930</defaultBilling>
+            <defaultShipping>2930</defaultShipping>
+            <createdAt>2020-07-22 07:15:02</createdAt>
+            <updatedAt>2020-07-22 07:15:02</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2930</id>
+                  <customerId>3574</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:44:57,795 INFO  [log]  id values are 3574
+2020-07-22 12:45:06,729 INFO  [log] true
+2020-07-22 12:45:06,730 INFO  [log] Test case pass
+2020-07-22 12:45:06,752 INFO  [log] Number of test Step got executed7
+2020-07-22 12:45:06,770 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 12:45:06,773 INFO  [log] firstname is Naidu4
+2020-07-22 12:45:06,781 INFO  [log] lastname is Naidu4
+2020-07-22 12:45:08,147 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3575</id>
+            <groupId>1</groupId>
+            <defaultBilling>2931</defaultBilling>
+            <defaultShipping>2931</defaultShipping>
+            <createdAt>2020-07-22 07:15:12</createdAt>
+            <updatedAt>2020-07-22 07:15:12</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2931</id>
+                  <customerId>3575</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:45:08,326 INFO  [log]  id values are 3575
+2020-07-22 12:45:17,309 INFO  [log] true
+2020-07-22 12:45:17,310 INFO  [log] Test case pass
+2020-07-22 12:45:17,317 INFO  [log] Number of test Step got executed7
+2020-07-22 12:45:21,030 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3576</id>
+            <groupId>1</groupId>
+            <defaultBilling>2932</defaultBilling>
+            <defaultShipping>2932</defaultShipping>
+            <createdAt>2020-07-22 07:15:23</createdAt>
+            <updatedAt>2020-07-22 07:15:23</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1990-05-29</dob>
+            <email>bhaskar16@gmail.com</email>
+            <firstname>bhaskar8</firstname>
+            <lastname>naidu8</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2932</id>
+                  <customerId>3576</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>John</firstname>
+                  <lastname>Doe</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 12:45:21,446 INFO  [log]  id values are 3576
+2020-07-22 12:45:23,990 INFO  [log] null
+2020-07-22 12:45:24,001 INFO  [log] Test case fail 
+2020-07-22 13:01:15,939 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3602</id>
+            <groupId>1</groupId>
+            <defaultBilling>2956</defaultBilling>
+            <defaultShipping>2956</defaultShipping>
+            <createdAt>2020-07-22 07:31:19</createdAt>
+            <updatedAt>2020-07-22 07:31:19</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2956</id>
+                  <customerId>3602</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:01:16,386 INFO  [log]  id values are 3602
+2020-07-22 13:01:27,141 INFO  [log] true
+2020-07-22 13:01:27,142 INFO  [log] Test case pass
+2020-07-22 13:01:28,050 INFO  [log] The Total number of rows are 4
+2020-07-22 13:01:28,117 INFO  [log] The Total number of columns are 3
+2020-07-22 13:01:28,240 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 13:01:28,242 INFO  [log] firstname is Naidu1
+2020-07-22 13:01:28,245 INFO  [log] lastname is Naidu1
+2020-07-22 13:01:29,228 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3603</id>
+            <groupId>1</groupId>
+            <defaultBilling>2957</defaultBilling>
+            <defaultShipping>2957</defaultShipping>
+            <createdAt>2020-07-22 07:31:33</createdAt>
+            <updatedAt>2020-07-22 07:31:33</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2957</id>
+                  <customerId>3603</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:01:29,245 INFO  [log]  id values are 3603
+2020-07-22 13:01:36,339 INFO  [log] true
+2020-07-22 13:01:36,339 INFO  [log] Test case pass
+2020-07-22 13:01:36,362 INFO  [log] Number of test Step got executed7
+2020-07-22 13:01:36,362 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 13:01:36,363 INFO  [log] firstname is Naidu2
+2020-07-22 13:01:36,371 INFO  [log] lastname is Naidu2
+2020-07-22 13:01:37,326 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3604</id>
+            <groupId>1</groupId>
+            <defaultBilling>2958</defaultBilling>
+            <defaultShipping>2958</defaultShipping>
+            <createdAt>2020-07-22 07:31:41</createdAt>
+            <updatedAt>2020-07-22 07:31:42</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2958</id>
+                  <customerId>3604</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:01:37,559 INFO  [log]  id values are 3604
+2020-07-22 13:01:44,352 INFO  [log] true
+2020-07-22 13:01:44,363 INFO  [log] Test case pass
+2020-07-22 13:01:44,393 INFO  [log] Number of test Step got executed7
+2020-07-22 13:01:44,402 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 13:01:44,407 INFO  [log] firstname is Naidu3
+2020-07-22 13:01:44,407 INFO  [log] lastname is Naidu3
+2020-07-22 13:01:45,366 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3605</id>
+            <groupId>1</groupId>
+            <defaultBilling>2959</defaultBilling>
+            <defaultShipping>2959</defaultShipping>
+            <createdAt>2020-07-22 07:31:49</createdAt>
+            <updatedAt>2020-07-22 07:31:50</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2959</id>
+                  <customerId>3605</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:01:45,567 INFO  [log]  id values are 3605
+2020-07-22 13:01:52,043 INFO  [log] true
+2020-07-22 13:01:52,043 INFO  [log] Test case pass
+2020-07-22 13:01:52,047 INFO  [log] Number of test Step got executed7
+2020-07-22 13:01:52,048 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 13:01:52,052 INFO  [log] firstname is Naidu4
+2020-07-22 13:01:52,060 INFO  [log] lastname is Naidu4
+2020-07-22 13:01:53,066 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3606</id>
+            <groupId>1</groupId>
+            <defaultBilling>2960</defaultBilling>
+            <defaultShipping>2960</defaultShipping>
+            <createdAt>2020-07-22 07:31:57</createdAt>
+            <updatedAt>2020-07-22 07:31:57</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>2960</id>
+                  <customerId>3606</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:01:53,275 INFO  [log]  id values are 3606
+2020-07-22 13:01:59,588 INFO  [log] true
+2020-07-22 13:01:59,588 INFO  [log] Test case pass
+2020-07-22 13:01:59,592 INFO  [log] Number of test Step got executed7
+2020-07-22 13:31:46,631 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3678</id>
+            <groupId>1</groupId>
+            <defaultBilling>3029</defaultBilling>
+            <defaultShipping>3029</defaultShipping>
+            <createdAt>2020-07-22 08:01:50</createdAt>
+            <updatedAt>2020-07-22 08:01:50</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3029</id>
+                  <customerId>3678</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:31:47,697 INFO  [log]  id values are 3678
+2020-07-22 13:31:57,630 INFO  [log] true
+2020-07-22 13:31:57,634 INFO  [log] Test case pass
+2020-07-22 13:31:58,790 INFO  [log] The Total number of rows are 4
+2020-07-22 13:31:58,855 INFO  [log] The Total number of columns are 3
+2020-07-22 13:31:59,184 INFO  [log] email is bhaskar1@gmail.com
+2020-07-22 13:31:59,266 INFO  [log] firstname is Naidu1
+2020-07-22 13:31:59,333 INFO  [log] lastname is Naidu1
+2020-07-22 13:32:00,693 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3679</id>
+            <groupId>1</groupId>
+            <defaultBilling>3030</defaultBilling>
+            <defaultShipping>3030</defaultShipping>
+            <createdAt>2020-07-22 08:02:05</createdAt>
+            <updatedAt>2020-07-22 08:02:05</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3030</id>
+                  <customerId>3679</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:32:01,163 INFO  [log]  id values are 3679
+2020-07-22 13:32:10,432 INFO  [log] true
+2020-07-22 13:32:10,432 INFO  [log] Test case pass
+2020-07-22 13:32:10,470 INFO  [log] Number of test Step got executed7
+2020-07-22 13:32:10,472 INFO  [log] email is bhaskar2@gmail.com
+2020-07-22 13:32:10,477 INFO  [log] firstname is Naidu2
+2020-07-22 13:32:10,485 INFO  [log] lastname is Naidu2
+2020-07-22 13:32:11,508 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3680</id>
+            <groupId>1</groupId>
+            <defaultBilling>3031</defaultBilling>
+            <defaultShipping>3031</defaultShipping>
+            <createdAt>2020-07-22 08:02:16</createdAt>
+            <updatedAt>2020-07-22 08:02:16</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3031</id>
+                  <customerId>3680</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:32:12,175 INFO  [log]  id values are 3680
+2020-07-22 13:32:19,087 INFO  [log] true
+2020-07-22 13:32:19,088 INFO  [log] Test case pass
+2020-07-22 13:32:19,162 INFO  [log] Number of test Step got executed7
+2020-07-22 13:32:19,167 INFO  [log] email is bhaskar3@gmail.com
+2020-07-22 13:32:19,170 INFO  [log] firstname is Naidu3
+2020-07-22 13:32:19,184 INFO  [log] lastname is Naidu3
+2020-07-22 13:32:20,224 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3681</id>
+            <groupId>1</groupId>
+            <defaultBilling>3032</defaultBilling>
+            <defaultShipping>3032</defaultShipping>
+            <createdAt>2020-07-22 08:02:24</createdAt>
+            <updatedAt>2020-07-22 08:02:24</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3032</id>
+                  <customerId>3681</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:32:20,697 INFO  [log]  id values are 3681
+2020-07-22 13:32:27,420 INFO  [log] true
+2020-07-22 13:32:27,422 INFO  [log] Test case pass
+2020-07-22 13:32:27,455 INFO  [log] Number of test Step got executed7
+2020-07-22 13:32:27,462 INFO  [log] email is bhaskar4@gmail.com
+2020-07-22 13:32:27,469 INFO  [log] firstname is Naidu4
+2020-07-22 13:32:27,478 INFO  [log] lastname is Naidu4
+2020-07-22 13:32:28,387 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3682</id>
+            <groupId>1</groupId>
+            <defaultBilling>3033</defaultBilling>
+            <defaultShipping>3033</defaultShipping>
+            <createdAt>2020-07-22 08:02:33</createdAt>
+            <updatedAt>2020-07-22 08:02:33</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>bhaskar@gmail.com</email>
+            <firstname>Bhaskar</firstname>
+            <lastname>Naidu</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3033</id>
+                  <customerId>3682</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:32:28,706 INFO  [log]  id values are 3682
+2020-07-22 13:32:34,820 INFO  [log] true
+2020-07-22 13:32:34,820 INFO  [log] Test case pass
+2020-07-22 13:32:34,842 INFO  [log] Number of test Step got executed7
+2020-07-22 13:32:38,675 INFO  [log]  all response <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>3683</id>
+            <groupId>1</groupId>
+            <defaultBilling>3034</defaultBilling>
+            <defaultShipping>3034</defaultShipping>
+            <createdAt>2020-07-22 08:02:41</createdAt>
+            <updatedAt>2020-07-22 08:02:41</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1990-05-29</dob>
+            <email>bhaskar17@gmail.com</email>
+            <firstname>bhaskar9</firstname>
+            <lastname>naidu9</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3034</id>
+                  <customerId>3683</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>John</firstname>
+                  <lastname>Doe</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-22 13:32:39,559 INFO  [log]  id values are 3683
+2020-07-22 13:32:46,380 INFO  [log] true
+2020-07-22 13:32:46,380 INFO  [log] Test case pass
